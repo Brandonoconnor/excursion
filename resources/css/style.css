@@ -17,5 +17,14 @@ h1 {
   color: gray;
   font-size: 21px;
 }
-//links
-//copyright excrusion is align to the right
+#right {
+  text-align: right !important;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+#downloadlink {
+  color: aquamarine;
+  font-size: 16px;
+}
